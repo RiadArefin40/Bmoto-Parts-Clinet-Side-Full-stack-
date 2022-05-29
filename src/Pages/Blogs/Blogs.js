@@ -13,7 +13,7 @@ const Blogs = () => {
           using dynamic import. Using Reack hook if necessary.Image should be
           compressed enough for fast loading.
         </p>
-        <h2 className="card-title">
+        <h2 className="text-3xl font-bold text-teal-500">
           What are the different ways to manage a state in a React application?
         </h2>
         <p>
@@ -23,20 +23,20 @@ const Blogs = () => {
           passed down to other components as a callback function (without
           needing optimizations like useCallback).
         </p>
-        <h2 className="card-title">
+        <h2 className="text-3xl font-bold text-teal-500">
         How does prototypical inheritance work?
         </h2>
 
         <p>
         The Prototypal Inheritance is a feature in javascript used to add methods and properties in objects. It is a method by which an object can inherit the properties and methods of another object. Traditionally, in order to get and set the Prototype of an object, we use Object
         </p>
-        <h2 className="card-title">
+        <h2 className="text-3xl font-bold text-teal-500">
         You have an array of products. Each product has a name, price, description, etc. How will you implement a search to find products by name?
         </h2>
         <p>
           We can solve this problem by implementing array.find function to Find all product by name.we should write array.find( product= product.name === 'name')   with this method.
         </p>
-        <h2 className="card-title">
+        <h2 className="text-3xl font-bold text-teal-500">
         What is a unit test? Why should write unit tests?
         </h2>
         <p>
