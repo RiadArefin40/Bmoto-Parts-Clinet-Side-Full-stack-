@@ -27,9 +27,7 @@ Live Website Link_ <br />
 2:https://bike-reviewer.netlify.app/ <br />
 3:https://bmoto-parts.web.app/
  </p>
-          <div className="card-actions justify-end">
-            <button className="btn btn-primary">Buy Now</button>
-          </div>
+         
         </div>
       </div>
     </div>
