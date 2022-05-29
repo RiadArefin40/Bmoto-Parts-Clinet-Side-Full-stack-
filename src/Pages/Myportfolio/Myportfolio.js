@@ -5,7 +5,7 @@ const Myportfolio = () => {
     <div>
       <div className="card  bg-base-100 shadow-xl">
         <div className="card-body">
-          <h2 className="text-center text-5xl ">Mostofa Riad Arfin Likhon</h2>
+          <h2 className="text-center text-5xl text-teal-500 font-bold">Mostofa Riad Arfin Likhon</h2>
           <p className="text-center">
               Email: arefinriad40@gmail.com <br />
               Edu:Computer Science and Engineering | Green University,
