@@ -19,6 +19,7 @@ import Blogs from './Pages/Blogs/Blogs';
 import Footer from './Pages/Shared/Footer/Footer';
 import Payment from './Pages/Dashboard/Payment';
 import ManageProduct from './Pages/Dashboard/ManageProduct';
+import NotFound from './Pages/Shared/Footer/NotFound';
 function App() {
   return (
     <div>
@@ -29,6 +30,7 @@ function App() {
        <Route path='/login' element={<Login></Login>} ></Route>
        <Route path='/blogs' element={<Blogs></Blogs>} ></Route>
        <Route path='/signup' element={<SignUp></SignUp>}></Route>
+       <Route path='*' element={<NotFound></NotFound>}></Route>
        
        <Route path='/dashboard' element={
       <RequireAuth>
