@@ -30,9 +30,10 @@ const Header = () => {
   </div>
   <div className="navbar-end mr-5 hidden lg:flex">
     <ul className="menu menu-horizontal p-0 text-xl">
+    <li><Link to='/myportfolio'>MyPortFolio</Link></li>
     <li className='  bg-teal-200 flex justify-center items-center px-8  rounded-xl'>{user&& user?.displayName}</li>
     <li><Link to='/blogs'>Blogs</Link></li>
-      <li><Link to='about'>About</Link></li>
+      <li><Link to='/about'>About</Link></li>
       <li>{user && <Link to='/dashboard'>Dashboard</Link> }</li>
      
       <li>{ user? <button onClick={logOut} >LogOut</button>  :<Link to='/login'>Login</Link>}</li>

@@ -20,6 +20,7 @@ import Footer from './Pages/Shared/Footer/Footer';
 import Payment from './Pages/Dashboard/Payment';
 import ManageProduct from './Pages/Dashboard/ManageProduct';
 import NotFound from './Pages/Shared/Footer/NotFound';
+import Myportfolio from './Pages/Myportfolio/Myportfolio';
 function App() {
   return (
     <div>
@@ -31,6 +32,7 @@ function App() {
        <Route path='/blogs' element={<Blogs></Blogs>} ></Route>
        <Route path='/signup' element={<SignUp></SignUp>}></Route>
        <Route path='*' element={<NotFound></NotFound>}></Route>
+       <Route path='/myportfolio' element={<Myportfolio></Myportfolio>}></Route>
        
        <Route path='/dashboard' element={
       <RequireAuth>
