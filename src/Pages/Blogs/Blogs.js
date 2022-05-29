@@ -4,7 +4,7 @@ const Blogs = () => {
   return (
     <div className="card w-4/5 bg-base-100 shadow-xl mx-auto mt-20">
       <div className="card-body">
-        <h2 className="card-title">
+        <h2 className="text-3xl font-bold text-teal-500">
           How will you improve the performance of a React Application?
         </h2>
         <p>
