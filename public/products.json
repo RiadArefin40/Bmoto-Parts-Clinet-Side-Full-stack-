@@ -1,0 +1,70 @@
+[
+
+{    
+     
+    "name":"Piston",
+    "img":"https://i.ibb.co/R6mdRK9/2971-1.png",
+    "des":"Full branded titanium made original parts",
+    "min":10,
+    "ava":150,
+    "price":"$50"
+
+
+},
+{    
+   
+   "name":"Brake-pad",
+   "img":"https://i.ibb.co/R6mdRK9/2971-1.png",
+   "des":"Full branded original parts",
+   "min":15,
+   "ava":250,
+   "price":"$20"
+
+
+},
+{    
+   
+   "name":"oil-filter",
+   "img":"https://i.ibb.co/R6mdRK9/2971-1.png",
+   "des":"Full branded titanium made original parts",
+   "min":5,
+   "ava":350,
+   "price":"$10"
+
+
+},
+{    
+    
+   "name":"air-filter",
+   "img":"https://i.ibb.co/R6mdRK9/2971-1.png",
+   "des":"Full branded titanium made original parts",
+   "min":15,
+   "ava":190,
+   "price":"$15"
+
+
+},
+{    
+   
+   "name":"valbe-set",
+   "img":"https://i.ibb.co/R6mdRK9/2971-1.png",
+   "des":"Full branded titanium made original parts",
+   "min":10,
+   "ava":350,
+   "price":"$5"
+
+
+},
+{    
+    
+   "name":"Piston",
+   "img":"https://i.ibb.co/R6mdRK9/2971-1.png",
+   "des":"Full branded titanium made original parts",
+   "min":10,
+   "ava":150,
+   "price":"$50"
+
+
+}
+
+]
